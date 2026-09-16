@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F9FA",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F8F9FA",
+  "textColor": "#1F2937",
+  "accentColor": "#0D9488",
+  "fontHeading": "Inter",
+  "fontBody": "Inter",
+  "borderRadius": "0.25rem",
+  "logoText": "Contact Hub",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-MWVXFJ/logo.png",
+  "tone": "trustworthy"
+}
